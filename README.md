@@ -3,7 +3,7 @@
 A desktop-based pharmacy management application built using **Python Tkinter**, **SQLite**, and **Pillow**. It provides an intuitive GUI for managing medicines, doctors, employees, patients, and receipts.
 
 ---
-![gif](1.gif)
+<img src="1.gif" width="400" alt="GIF Preview">
 
 ## 🖥️ Features
 
